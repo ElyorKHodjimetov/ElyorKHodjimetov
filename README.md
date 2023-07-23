@@ -16,7 +16,7 @@ I am studying IT technology. I love evening walks and sports.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on  real-time object detection in the browser using tensorflow.js  
   
 
 - 🌱 I’m currently learning deep learning and machine learning🙇  
