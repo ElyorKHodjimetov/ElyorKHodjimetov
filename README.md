@@ -45,7 +45,7 @@ I also explore AI and computer vision with tools like OpenCV and TensorFlow.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
 
 ### 🧪 Debugging & Testing
 ![Serial Monitor](https://img.shields.io/badge/Serial%20Monitor-000000?style=flat)
