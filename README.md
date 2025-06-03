@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Elyor
 
-**"Low-level code. High-level impact."**  
-*Низкоуровневый код — высокий результат.*
 
 I'm an Embedded Software Developer passionate about building reliable and efficient low-level systems.  
 I work with microcontrollers like Arduino and Raspberry Pi, and enjoy combining hardware and software to solve real-world problems.  
