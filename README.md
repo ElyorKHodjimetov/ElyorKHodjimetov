@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Elyor
 
+**"Low-level code. High-level impact."**  
+*Низкоуровневый код — высокий результат.*
+
 I'm an Embedded Software Developer passionate about building reliable and efficient low-level systems.  
 I work with microcontrollers like Arduino and Raspberry Pi, and enjoy combining hardware and software to solve real-world problems.  
 I also explore AI and computer vision with tools like OpenCV and TensorFlow.  
@@ -16,6 +19,7 @@ I also explore AI and computer vision with tools like OpenCV and TensorFlow.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Assembler](https://img.shields.io/badge/Assembler-000000?style=flat)
 
 ### 🤖 Embedded & IoT Platforms
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
@@ -27,6 +31,7 @@ I also explore AI and computer vision with tools like OpenCV and TensorFlow.
 ![Make](https://img.shields.io/badge/Make-3776AB?style=flat)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-000000?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📡 Communication Protocols
 ![I2C](https://img.shields.io/badge/I2C-000000?style=flat)
@@ -39,12 +44,22 @@ I also explore AI and computer vision with tools like OpenCV and TensorFlow.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### 🔄 Version Control
+### 🔄 Version Control & CI/CD
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ### 🧪 Debugging & Testing
 ![Serial Monitor](https://img.shields.io/badge/Serial%20Monitor-000000?style=flat)
 ![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-000000?style=flat)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-000000?style=flat)
 ![Multimeter](https://img.shields.io/badge/Multimeter-000000?style=flat)
+
+---
+
+## 📫 How to reach me
+
+- 📧 Email: khodjimetovelyor05012003pr@gmail.com  
+- 💬 Telegram: [@Elyor_Khodjimetov](https://t.me/Elyor_Khodjimetov)
