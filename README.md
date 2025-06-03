@@ -25,10 +25,8 @@ I also explore AI and computer vision with tools like OpenCV and TensorFlow.
 
 ### 🛠️ Development Tools
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-000000?style=flat&logo=platformio&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-3776AB?style=flat)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-000000?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📡 Communication Protocols
