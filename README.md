@@ -58,4 +58,6 @@ I also explore AI and computer vision with tools like OpenCV and TensorFlow.
 ## 📫 How to reach me
 
 - 📧 Email: khodjimetovelyor05012003pr@gmail.com  
-- 💬 Telegram: [@Elyor_Khodjimetov](https://t.me/Elyor_Khodjimetov)
+- 💬 Telegram: [@Elyor_Khodjimetov](https://t.me/Elyor_Khodjimetov)  
+- 💼 LinkedIn: [Элёр Ходжиметов](https://www.linkedin.com/in/элёр-ходжиметов-406750337)
+
